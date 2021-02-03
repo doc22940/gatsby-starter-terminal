@@ -1,6 +1,5 @@
 {
   "name": "gatsby-starter-terminal",
-  "private": true,
   "description": "A Gatsby starter for gatsby-theme-terminal",
   "version": "0.1.0",
   "author": "Paul Scanlon <pauliescanlon@gmail.com>",
